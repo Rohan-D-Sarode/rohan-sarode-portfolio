@@ -1,0 +1,16 @@
+# My Portfolio 🚀
+
+This is my personal portfolio built with **Next.js** and **Tailwind CSS**.
+
+## Features
+- 🏗️ Project showcase with live links and GitHub repositories
+- 📱 Responsive design
+- 🔥 Modern UI with Tailwind CSS
+
+## Installation
+1. Clone the repo: `git clone <your-repo-url>`
+2. Install dependencies: `npm install`
+3. Run locally: `npm run dev`
+
+## Live Demo
+[🔗 View on Vercel](https://your-live-demo.vercel.app)
