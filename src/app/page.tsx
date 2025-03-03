@@ -43,47 +43,7 @@ export default function Home() {
   ];
   
 
-  const testimonials = [
-    {
-      name: 'John Doe',
-      role: 'CEO, Company A',
-      quote:
-        'Working with [Your Name] was a fantastic experience. Their attention to detail and creativity are unmatched!',
-    },
-    {
-      name: 'Jane Smith',
-      role: 'CTO, Company B',
-      quote:
-        '[Your Name] delivered beyond our expectations. Highly recommend for any web development project.',
-    },
-    {
-      name: 'Alex Johnson',
-      role: 'Founder, Company C',
-      quote:
-        'Professional, reliable, and highly skilled. [Your Name] is a true asset to any team.',
-    },
-  ];
-
-  const latestBlogs = [
-    {
-      title: 'Blog Post One',
-      excerpt: 'A short excerpt about blog post one.',
-      link: '/blog/post-one',
-      date: '2025-03-01',
-    },
-    {
-      title: 'Blog Post Two',
-      excerpt: 'A short excerpt about blog post two.',
-      link: '/blog/post-two',
-      date: '2025-02-20',
-    },
-    {
-      title: 'Blog Post Three',
-      excerpt: 'A short excerpt about blog post three.',
-      link: '/blog/post-three',
-      date: '2025-02-10',
-    },
-  ];
+ 
 
   return (
     <main>
@@ -140,7 +100,7 @@ export default function Home() {
       About Me
     </h2>
     <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-3xl mx-auto">
-      I'm a <strong>Full Stack Developer</strong> passionate about crafting seamless and efficient web applications.  
+      I&aposm a <strong>Full Stack Developer</strong> passionate about crafting seamless and efficient web applications.  
       I specialize in <strong> Next.js, React, Spring Boot, and Node.js </strong>, creating dynamic and scalable platforms.  
       My experience includes working with <strong>Next.js, MySQL, AWS, Cloudflare, and REST APIs</strong>, allowing me to build robust backend solutions.  
       With a strong foundation in webhooks and integrations, I enjoy optimizing performance and user experience for modern applications.
@@ -183,7 +143,7 @@ export default function Home() {
             </h2>
             <p className="text-lg md:text-xl text-gray-200 mb-8 max-w-2xl mx-auto">
               Whether you have a project in mind or want to discuss web development,  
-              feel free to <strong>reach out</strong>. Let's collaborate and bring ideas to life!
+              feel free to <strong>reach out</strong>. Let&aposs collaborate and bring ideas to life!
             </p>
             <a
               href="/contact"
@@ -201,7 +161,7 @@ export default function Home() {
 >
   <div className="container mx-auto px-4 text-center">
     <blockquote className="max-w-3xl mx-auto italic text-2xl md:text-3xl text-white">
-      "Design is not just what it looks like and feels like. Design is how it works."
+    &aposDesign is not just what it looks like and feels like. Design is how it works.&apos
     </blockquote>
     <p className="mt-4 text-lg text-gray-500">– Steve Jobs</p>
   </div>

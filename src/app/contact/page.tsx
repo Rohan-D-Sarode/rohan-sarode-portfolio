@@ -1,8 +1,7 @@
 "use client";
 
 import { useState, FormEvent, ChangeEvent } from "react";
-import Link from "next/link";
-import { FaWhatsapp, FaPhone, FaInstagram, FaLinkedin, FaDiscord, FaSteam } from "react-icons/fa";
+import { FaWhatsapp, FaPhone, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 function ContactPage() {
   const [formData, setFormData] = useState({
@@ -47,10 +46,7 @@ function ContactPage() {
     }
   };
 
-  const handleSubscribe = (e: FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    alert("Thank you for subscribing! Sadly, our newsletter is currently unavailable.");
-  };
+  
 
   return (
     <main>
