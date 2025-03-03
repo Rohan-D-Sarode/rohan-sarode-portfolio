@@ -18,7 +18,7 @@ function Footer() {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 mb-4">About Me</h3>
             <p className="text-sm leading-relaxed">
-              Passionate about creating modern, user-friendly web experiences. Let's build something amazing together!
+              Passionate about creating modern, user-friendly web experiences. Let&apos;s build something amazing together!
             </p>
           </div>
 
