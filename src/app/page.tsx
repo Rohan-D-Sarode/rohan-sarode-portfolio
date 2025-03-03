@@ -100,7 +100,7 @@ export default function Home() {
       About Me
     </h2>
     <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-3xl mx-auto">
-      I&aposm a <strong>Full Stack Developer</strong> passionate about crafting seamless and efficient web applications.  
+      I&lsquo;m a <strong>Full Stack Developer</strong> passionate about crafting seamless and efficient web applications.  
       I specialize in <strong> Next.js, React, Spring Boot, and Node.js </strong>, creating dynamic and scalable platforms.  
       My experience includes working with <strong>Next.js, MySQL, AWS, Cloudflare, and REST APIs</strong>, allowing me to build robust backend solutions.  
       With a strong foundation in webhooks and integrations, I enjoy optimizing performance and user experience for modern applications.
@@ -143,7 +143,7 @@ export default function Home() {
             </h2>
             <p className="text-lg md:text-xl text-gray-200 mb-8 max-w-2xl mx-auto">
               Whether you have a project in mind or want to discuss web development,  
-              feel free to <strong>reach out</strong>. Let&aposs collaborate and bring ideas to life!
+              feel free to <strong>reach out</strong>. Let&apos;s collaborate and bring ideas to life!
             </p>
             <a
               href="/contact"
@@ -161,7 +161,7 @@ export default function Home() {
 >
   <div className="container mx-auto px-4 text-center">
     <blockquote className="max-w-3xl mx-auto italic text-2xl md:text-3xl text-white">
-    &aposDesign is not just what it looks like and feels like. Design is how it works.&apos
+    &apos;Design is not just what it looks like and feels like. Design is how it works.&apos;
     </blockquote>
     <p className="mt-4 text-lg text-gray-500">– Steve Jobs</p>
   </div>

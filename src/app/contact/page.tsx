@@ -57,7 +57,7 @@ function ContactPage() {
             Contact Me
           </h1>
           <p className="text-lg md:text-xl text-gray-600 mb-12 max-w-2xl mx-auto">
-            Have a project in mind or just want to say hi? Fill out the form below and I&apos;ll get back to you as soon as possible.
+            Have a project in mind or just want to say hi? Fill out the form below and I`&apos;`ll get back to you as soon as possible.
           </p>
           <form onSubmit={handleSubmit} className="max-w-xl mx-auto space-y-6 text-left">
             <div>
