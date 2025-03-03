@@ -1,0 +1,86 @@
+[
+    {
+        
+            "slug": "skillgati",
+            "title": "SkillGati",
+            "description": "A dedicated platform for agriculture-related skill development.",
+            "image": "https://res.cloudinary.com/djy3sowmo/image/upload/v1741020413/test/q9n8ipdslyqtewrnu4ih.png",
+            "content": "SkillGati is an educational platform focused on delivering agriculture-related courses. It provides a seamless learning experience with optimized landing pages, informative blog sections, and interactive course content. The platform is designed for self-paced learning and content consumption, catering to individuals looking to enhance their agricultural knowledge.",
+            "github": "",
+            "live": "https://www.skillgati.com/",
+            "technologies": ["Next.js", "React", "Tailwind CSS", "Node.js", "Html/CSS/JavaScript"],
+            "features": [
+              "Optimized landing and blog pages",
+              "Engaging agriculture-focused courses",
+              "Seamless user experience",
+              "No instructor login, company-managed content"
+            ]
+          
+          
+      
+    },
+    {
+        "slug": "skillgati-operations",
+        "title": "SkillGati Operations",
+        "description": "A backend-integrated system for managing SkillGati's operational workflows and integrations.",
+        "image": "https://res.cloudinary.com/djy3sowmo/image/upload/v1741020450/test/i1uxkce96crrvbjsog6n.png",
+        "content": "SkillGati Operations is a backend-driven system designed to streamline SkillGati's integrations, webhooks, and API workflows. It manages real-time analytics, automated content updates, and system-wide operational efficiencies. This module ensures smooth communication between different services and optimizes the platform's backend processes.",
+       
+        "technologies": ["Next.js", "React", "Express", "MongoDB", "AWS", "Webhooks"],
+        "features": [
+          "Webhook and API integrations",
+          "Real-time analytics dashboard",
+          "Automated content and user workflows",
+          "Performance monitoring and optimization"
+        ]
+      },
+      
+      {
+        "slug": "motosquare",
+        "title": "MotoSquare",
+        "description": "A comprehensive platform for vehicle consultancy and market insights.",
+        "image": "https://res.cloudinary.com/djy3sowmo/image/upload/v1741020734/test/i0cgdim4zupfkrdibumz.webp",
+        "content": "MotoSquare is a dedicated platform for vehicle consultancy, providing expert advice, news, and updates on the latest automobile trends. It features in-depth vehicle reviews, event coverage, a newsletter, and an integrated YouTube showcase for automotive enthusiasts. Users can access personalized consulting services, stay informed about new launches, and engage with industry insights.",
+        "technologies": ["Next.js", "React", "Tailwind CSS", "Spring Boot", "MongoDB"],
+        "features": [
+          "Vehicle consultancy services",
+          "News, updates, and expert reviews",
+          "Integrated YouTube showcase",
+          "Search functionality for vehicle insights",
+          "Responsive and user-friendly design"
+        ]
+      },
+      
+      
+        {
+          "slug": "krushna-career-academy",
+          "title": "Krushna Career Academy",
+          "description": "A static informational website showcasing Krushna Career Academy’s offerings.",
+          "image": "https://res.cloudinary.com/djy3sowmo/image/upload/v1741020792/test/ndouut4xavevjxy46skp.jpg",
+          "content": "Krushna Career Academy’s website serves as a promotional platform, providing details about its courses, coaching programs, and career development resources. The site is designed for easy navigation, ensuring prospective students can find relevant information about available programs.",
+          "technologies": ["Next.js", "Tailwind CSS"],
+          "features": [
+            "Informative static pages",
+            "Responsive and mobile-friendly design",
+            "Clear course and service descriptions"
+          ]
+        },
+        {
+          "slug": "amg-bangles",
+          "title": "AMG Bangles",
+          "description": "An e-commerce platform for premium handcrafted bangles.",
+          "image": "https://res.cloudinary.com/djy3sowmo/image/upload/v1741021185/test/afcf9grodywkij0c8mu4.webp",
+          "content": "AMG Bangles is a modern e-commerce website that showcases premium handcrafted bangles, blending traditional artistry with modern designs. It features a seamless shopping experience with intuitive navigation, secure transactions, and high-quality product displays.",
+          "github": "https://github.com/rohan-sarode/amg-bangles",
+          "technologies": ["Next.js", "React", "Tailwind CSS", "SQLite" ],
+          "features": [
+            "High-quality product showcase",
+            "Secure payment gateway (Stripe)",
+            "Customer reviews and testimonials",
+            "Smooth and responsive shopping experience"
+          ]
+        }
+      ]
+      
+  
+  
