@@ -11,7 +11,7 @@ export default function AboutPage() {
             </h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
-                Hi! I`&apos;`m <span className="font-semibold text-green-600">Rohan Deepak Sarode</span>, a dedicated <strong>Full Stack Developer</strong> with experience in <strong>Next.js, React, Spring Boot, and Node.js</strong>.  
+                Hi! I`m <span className="font-semibold text-green-600">Rohan Deepak Sarode</span>, a dedicated <strong>Full Stack Developer</strong> with experience in <strong>Next.js, React, Spring Boot, and Node.js</strong>.  
                 I specialize in building <strong>scalable web applications</strong>, optimizing performance, and enhancing user experience. My expertise spans <strong>MySQL, AWS, Cloudflare, REST APIs, and webhooks</strong>.
               </p>
               <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
@@ -19,7 +19,7 @@ export default function AboutPage() {
                 My journey includes working on <strong>SkillGati, MotoSquare, AMG Bangles</strong>, focusing on <strong>front-end and full-stack development</strong> .
               </p>
               <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-                When I`&apos;`m not coding, I enjoy playing <strong>video games (Dark Souls, Elden Ring, Silent Hill, and more)</strong>, exploring new technologies, and reading tech blogs.  
+                When I`m not coding, I enjoy playing <strong>video games (Dark Souls, Elden Ring, Silent Hill, and more)</strong>, exploring new technologies, and reading tech blogs.  
                 Feel free to <strong> browse my portfolio</strong> or reach out for collaboration!
               </p>
             </div>
